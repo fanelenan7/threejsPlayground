@@ -34,6 +34,7 @@ Just trying to figure out what does what. As I mentioned before, the library is 
 You could. I just prefer to have a separate js file.
 
 > Can I deploy it to Heroku?
+
 I guess? I see no reason why not. This version is deployed to GitHub pages.
 
 Overall it was a very interesting experiment.
